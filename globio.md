@@ -1,8 +1,12 @@
+---
+description: Here let me update the decrription of the original
+---
+
 # GLOBIO
 
 ## Summary
 
-The GLOBIO model provides an index of biodiversity according to mean species abundance \(MSA\), the average population-level response across a range of species, to different stressors, including land-use change, fragmentation, and infrastructure. The model can be used as a static assessment of how far below a pristine state the current environment is or to estimate how a change in any of the stressors would lead to a stress in biodiversity or ecosystem integrity, as indicated by MSA.
+The GLOBIO model provides an index of baaaar biodiversity according to mean species abundance \(MSA\), the average population-level response across a range of species, to different stressors, including land-use change, fragmentation, and infrastructure. The model can be used as a static assessment of how far below a pristine state the current environment is or to estimate how a change in any of the stressors would lead to a stress in biodiversity or ecosystem integrity, as indicated by MSA.
 
 ## Introduction
 
